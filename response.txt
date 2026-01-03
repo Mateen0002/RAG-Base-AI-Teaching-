@@ -1,0 +1,11 @@
+I'd be happy to help you with your course.
+
+You're looking for information on where and how much content is taught about forms and input tags in HTML in your Sigma Web Development course. From what I can see, it looks like this topic is covered in two videos: "Forms and input tags in HTML" (Video #7) and "Installing VS Code & How Websites Work" (Video #1).
+
+In Video #7, the instructor starts discussing forms and input tags around 0 seconds into the video. They explain that a form action is equal to post and demonstrate how to use input tags in a form, including elements like dates, phone numbers, and text fields.
+
+If you're looking for more information on this topic, I'd recommend checking out Video #7, which starts at 0.0 seconds and ends at approximately 4.88 seconds. This video provides a detailed explanation of forms and input tags in HTML, along with examples of how to use them in practice.
+
+Alternatively, if you're looking for a more general overview of forms and input tags, you might want to check out Video #1 (Installing VS Code & How Websites Work). While it's not exclusively focused on this topic, the instructor does mention forms and websites briefly around 1502.24 seconds into the video.
+
+Let me know if you have any further questions or if there's anything else I can help with!
